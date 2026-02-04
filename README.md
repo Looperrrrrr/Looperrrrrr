@@ -1,8 +1,8 @@
 # ¡Hola! Soy Asif (Looperrrrrr) 👋
 
-### 🚀 Full Stack Developer en formación | Transformando ideas en código
+### 🚀 Full Stack Developer | Transformando ideas en código
 
-Actualmente estoy cursando el bootcamp de Full Stack Development en **4Geeks Academy**, enfocado en crear aplicaciones web modernas, rápidas y escalables. Me encanta el desafío de conectar un backend sólido con una interfaz de usuario increíble.
+Actualmente estoy enfocado en crear aplicaciones web modernas, rápidas y escalables. Me encanta el desafío de conectar un backend sólido con una interfaz de usuario increíble.
 
 ---
 
