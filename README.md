@@ -37,5 +37,5 @@ Aquí puedes ver mi actividad y evolución como desarrollador:
 
 ### 📫 Conectemos
 
-- **LinkedIn:** Asif Alam (https://www.linkedin.com/in/asif-alam-looper)
-- **Email:** asif.covilha@gmail.com
+- **LinkedIn:** [Asif Alam](https://www.linkedin.com/in/asif-alam-looper)
+- **Email:** [asif.covilha@gmail.com](mailto:asif.covilha@gmail.com)
