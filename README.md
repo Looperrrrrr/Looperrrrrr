@@ -20,7 +20,7 @@ Actualmente estoy enfocado en crear aplicaciones web modernas, rápidas y escala
 
 ### 💻 Mis Proyectos Destacados
 
-- 👟 **Looper Sneakers**: E-commerce de zapatillas profesional. Incluye gestión de usuarios, catálogo dinámico, carrito de compras persistente y pasarela de pago con Stripe.
+- 👟 **Looper Sneakers (Proyecto Final)**: E-commerce de zapatillas profesional. Incluye gestión de usuarios, catálogo dinámico, carrito de compras persistente y pasarela de pago con Stripe.
 - 🎁 **Gift Generator**: Una solución inteligente para gestionar recordatorios de fechas especiales y generar ideas de regalos personalizados.
 
 ---
