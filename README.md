@@ -29,7 +29,7 @@ Actualmente estoy enfocado en crear aplicaciones web modernas, rápidas y escala
 
 Aquí puedes ver mi actividad y evolución como desarrollador:
 
-[![Estadísticas de Looperrrrrr](https://github-readme-stats.vercel.app/api?username=Looperrrrrr&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Looperrrrrr)
+![Estadísticas de Looperrrrrr](https://github-readme-stats-sigma-five.vercel.app/api?username=Looperrrrrr&show_icons=true&theme=tokyonight)
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Looperrrrrr&layout=compact&theme=tokyonight&hide=html,css)](https://github.com/Looperrrrrr)
 
