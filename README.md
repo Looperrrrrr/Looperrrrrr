@@ -1,16 +1,41 @@
-## Hi there 👋
+# ¡Hola! Soy Asif (Looperrrrrr) 👋
 
-<!--
-**Looperrrrrr/Looperrrrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer en formación | Transformando ideas en código
 
-Here are some ideas to get you started:
+Actualmente estoy cursando el bootcamp de Full Stack Development en **4Geeks Academy**, enfocado en crear aplicaciones web modernas, rápidas y escalables. Me encanta el desafío de conectar un backend sólido con una interfaz de usuario increíble.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 💻 Mis Proyectos Destacados
+
+- 👟 **Looper Sneakers (Proyecto Final)**: E-commerce de zapatillas profesional. Incluye gestión de usuarios, catálogo dinámico, carrito de compras persistente y pasarela de pago con Stripe.
+- 🎁 **Gift Generator**: Una solución inteligente para gestionar recordatorios de fechas especiales y generar ideas de regalos personalizados.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+Aquí puedes ver mi actividad y evolución como desarrollador:
+
+![Estadísticas de Looperrrrrr](https://github-readme-stats.vercel.app/api?username=Looperrrrrr&show_icons=true&theme=tokyonight&count_private=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Looperrrrrr&layout=compact&theme=tokyonight&hide=html,css)
+
+---
+
+### 📫 Conectemos
+
+- **LinkedIn:** Asif Alam (https://www.linkedin.com/in/asif-alam-looper)
+- **Email:** asif.covilha@gmail.com
